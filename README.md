@@ -1,4 +1,5 @@
 ### 안녕하세요 👋
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrsimplelife)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsimplelife&show_icons=true&theme=radical) -->
 
 <!--
