@@ -1,5 +1,5 @@
 ### 안녕하세요 👋
-![Anurag's GitHub stats](https://github-readme-stats-mrsimplelife.vercel.app/api?username=mrsimplelife&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats-mrsimplelife.vercel.app/api?username=mrsimplelife&show_icons=true&theme=radical) -->
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youme)](https://github.com/anuraghazra/github-readme-stats)
 
 
